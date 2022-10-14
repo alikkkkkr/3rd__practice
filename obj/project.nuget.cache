@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkigPsDykId05HiIxqf0DLtj+Sh9D1o+m0zE43EZW9LR3m/8/uU3AFSyEsXvRLA+i58vGeDFAqHWXnmfbd1U5A==",
+  "success": true,
+  "projectFilePath": "/Users/alinaryzhkova/Projects/pianino/pianino/pianino.csproj",
+  "expectedPackageFiles": [
+    "/Users/alinaryzhkova/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/alinaryzhkova/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/alinaryzhkova/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

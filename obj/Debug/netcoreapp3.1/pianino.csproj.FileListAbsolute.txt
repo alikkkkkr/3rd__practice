@@ -1,0 +1,14 @@
+/Users/alinaryzhkova/Projects/pianino/pianino/bin/Debug/netcoreapp3.1/pianino
+/Users/alinaryzhkova/Projects/pianino/pianino/bin/Debug/netcoreapp3.1/pianino.deps.json
+/Users/alinaryzhkova/Projects/pianino/pianino/bin/Debug/netcoreapp3.1/pianino.runtimeconfig.json
+/Users/alinaryzhkova/Projects/pianino/pianino/bin/Debug/netcoreapp3.1/pianino.runtimeconfig.dev.json
+/Users/alinaryzhkova/Projects/pianino/pianino/bin/Debug/netcoreapp3.1/pianino.dll
+/Users/alinaryzhkova/Projects/pianino/pianino/bin/Debug/netcoreapp3.1/pianino.pdb
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.csproj.AssemblyReference.cache
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.AssemblyInfoInputs.cache
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.AssemblyInfo.cs
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.csproj.CoreCompileInputs.cache
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.dll
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.pdb
+/Users/alinaryzhkova/Projects/pianino/pianino/obj/Debug/netcoreapp3.1/pianino.genruntimeconfig.cache
